@@ -15,7 +15,7 @@ public class test1 {
 		return x - y ;
 	}
 	public int minus() {
-		return x - y ;
+		return x + y ;
 	}
 	public int mul() {
 		return x * y ;
