@@ -10,7 +10,7 @@ public class test1 {
 	}
 
 	
-	
+	//連線好難
 	public int plus() {
 		return x + y ;
 	}
