@@ -18,7 +18,7 @@ public class test1 {
 		return x + y ;
 	}
 	public int mul() {
-		return x * y ;
+		return x / y ;
 	}
 	public String div() {
 		int v1 = x/y;
